@@ -10,7 +10,7 @@ dist/
 # Compiled Java class files
 *.class
 
-# Compiled Python bytecode
+# Compiled Python byte
 *.py[cod]
 
 # Log files
