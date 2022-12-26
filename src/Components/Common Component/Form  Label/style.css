@@ -1,0 +1,13 @@
+.email-label {
+  width: 106px;
+  height: 19px;
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 19px;
+  /* identical to box height */
+
+  color: #1a1a1a;
+}

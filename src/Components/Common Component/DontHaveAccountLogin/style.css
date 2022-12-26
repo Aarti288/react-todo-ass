@@ -1,0 +1,26 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,300,400,700);
+.Dont-Have-Account {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 19px;
+
+  text-align: center;
+
+  color: #828282;
+}
+
+.Create-Account {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 19px;
+  color: #d90429;
+  text-decoration: none;
+}
+
+.dont-have-create-account {
+  display: inline-block;
+}

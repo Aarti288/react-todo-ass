@@ -1,0 +1,12 @@
+.Create-image-container {
+  background: #d90429;
+  display: flex;
+  width: 50%;
+  height: 912px;
+  display: flex;
+}
+@media (min-width: 320px) and (max-width: 768px) {
+  .Create-image-container {
+    display: none;
+  }
+}

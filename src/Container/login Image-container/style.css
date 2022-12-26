@@ -1,0 +1,12 @@
+.image-container {
+  background: #d90429;
+  display: flex;
+  width: 50%;
+  height: 600px;
+  width: 50%;
+}
+@media screen and (min-device-width: 320px) and (max-device-width: 768px) {
+  .image-container {
+    display: none;
+  }
+}

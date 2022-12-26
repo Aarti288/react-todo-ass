@@ -1,0 +1,21 @@
+.create-account-container {
+  margin: auto;
+
+  margin-bottom: 160px;
+}
+.error-msg {
+  color: red;
+}
+
+.form-error {
+  color: red;
+}
+
+.createAccount {
+  margin: auto;
+}
+
+@media (min-width: 320px) and (max-width: 768px) {
+  .create-account-container {
+  }
+}

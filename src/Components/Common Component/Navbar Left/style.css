@@ -1,0 +1,18 @@
+.microbank-head {
+  margin: 21px 21px 21px 21px;
+  height: 30px;
+  width: 151px;
+}
+.dash-head {
+  margin: 16px 32px 16px 16px;
+}
+
+.ABC-head {
+  width: 153px;
+  height: 33px;
+  margin: 19px 0px 20px;
+}
+
+.navbar-left {
+  display: flex;
+}

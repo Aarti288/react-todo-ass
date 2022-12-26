@@ -1,0 +1,60 @@
+.Edit-profile-title {
+  width: 132px;
+  height: 33px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  color: #1a1a1a;
+}
+
+.Edit-profile-container {
+  height: 870px;
+
+  background: #ffffff;
+  box-shadow: 0px 6px 7px -4px rgba(0, 0, 0, 0.2);
+  border-radius: 12px;
+}
+.outer-border-img {
+  padding: 10px;
+  gap: 10px;
+
+  width: 200px;
+  height: 235px;
+
+  background: #ffffff;
+
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+}
+.inner-border-img {
+  box-sizing: border-box;
+
+  background: #e0e0e0;
+  border: 1px dashed #e0e0e0;
+  border-radius: 4px;
+  width: 180px;
+  height: 180px;
+}
+.image-icon {
+  margin: 72px 72px 72px 72px;
+}
+.Browse-img-border {
+  box-sizing: border-box;
+
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  margin: 10px 10px 10px 10px;
+}
+
+.Browse-img-title {
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 20px;
+  color: #d90429;
+  text-align: center;
+  width: 400;
+}

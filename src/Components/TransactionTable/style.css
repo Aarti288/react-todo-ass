@@ -1,0 +1,38 @@
+.Transaction-header {
+  height: 22px;
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 157%;
+  margin-left: 23px;
+  color: #828282;
+}
+.Transaction-details {
+  background: #ffffff;
+  box-shadow: 0px 6px 7px -4px rgba(0, 0, 0, 0.2);
+  border-radius: 12px;
+  position: relative;
+}
+#transaction-table {
+  width: 100%;
+}
+.tr {
+  color: #e0e0e0;
+}
+
+#transaction-table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: white;
+  color: #828282;
+}
+
+#transaction-table tr {
+  background: rgba(244, 245, 253, 0.5);
+
+  border: 1px solid #e0e0e0;
+  border-radius: 4px 4px 0px 0px;
+}

@@ -1,0 +1,18 @@
+.forgot-password {
+  width: 123px;
+  height: 19px;
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 19px;
+
+  color: #d90429;
+  margin-left: 199px;
+}
+@media screen and (min-device-width: 320px) and (max-device-width: 768px) {
+  .forgot-password {
+    margin-left: 175px;
+  }
+}

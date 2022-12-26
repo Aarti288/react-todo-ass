@@ -1,0 +1,18 @@
+.current-service-title {
+  width: 148px;
+  height: 25px;
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  color: #1a1a1a;
+}
+.current-service-container {
+  height: 220px;
+  background: #ffffff;
+  box-shadow: 0px 1px 5px rgb(0 0 0 / 12%);
+  border-radius: 12px;
+  margin: 24px;
+}

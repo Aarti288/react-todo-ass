@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "Fullname": "Ashwini",
+      "Date": "2022-11-30",
+      "Email": "abc@gmail.com",
+      "password": "123",
+      "conpassword": "123",
+      "id": 1
+    },
+    {
+      "Fullname": "Aarti",
+      "Date": "2022-11-25",
+      "Email": "aarti.k@Perennialsys.com",
+      "password": "Pere@123",
+      "conpassword": "Pere@123",
+      "id": 2
+    },
+    {
+      "Fullname": "Ravikant",
+      "Date": "2022-11-22",
+      "Email": "ravikant@gmail.com",
+      "password": "123",
+      "conpassword": "123",
+      "id": 4
+    }
+  ],
+  "stars": [
+    {
+      "serviceName": "Current Account",
+      "rating": 5,
+      "id": 1
+    },
+    {
+      "serviceName": "Payroll",
+      "rating": 5,
+      "id": 2
+    },
+    {
+      "serviceName": "Payment",
+      "rating": 4,
+      "id": 3
+    }
+  ]
+}
